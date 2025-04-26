@@ -90,8 +90,3 @@
  - **Error: Java version compatibility** - Ensure the installed JDK is compatible with your Java IDE. This project is optimized for JDK 8 or higher.
  - **Project import issues in Eclipse** - If you encounter issues importing the project, try reloading Eclipse or use the **Refresh** option on the project.
 
- ## License
-
- This project is **unlicensed**, meaning it is freely available for public use, modification, and distribution without restrictions.
-
- Feel free to fork this project, make changes, and create your own versions!
